@@ -9,7 +9,7 @@ import org.junit.jupiter.api.Test;
 
 @DisplayName("tests for Bar")
 @GradeTopic(project = "Drill Template", topic = "Things")
-class FooTest {
+class BarTest {
   @Test
   @DisplayName("it works")
   @Grade(project = "Drill Template", topic = "Things", points = 1.0)
